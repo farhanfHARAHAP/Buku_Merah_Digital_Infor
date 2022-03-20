@@ -1,0 +1,15 @@
+cls
+pause
+
+cd "C:\Users\[GANTI]\anaconda3\condabin"
+call activate.bat
+pause
+
+cd "C:\Users\[GANTI]\Downloads\Buku Merah"
+python Main.py
+pause
+
+::Ubah [GANTI] menjadi nama user yang sedang anda pakai!
+::Ubah tanpa kurung kotak!
+::Lalu 'save as' dengan format file .bat!
+::Lalu klik file .bat yang kamu save untuk memulai!
